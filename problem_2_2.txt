@@ -1,0 +1,1 @@
+(ab)*|(ba)*|(aa)*|epsilon|b(bb)*
