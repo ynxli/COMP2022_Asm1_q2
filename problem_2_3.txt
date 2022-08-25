@@ -1,1 +1,1 @@
-aaa*b,baaa*,aaa*bbb*|bbb*aaa*,aba,abbb*,bbb*a
+aaa*b|baaa*|aaa*bbb*|bbb*aaa*|aba|abbb*|bbb*a
