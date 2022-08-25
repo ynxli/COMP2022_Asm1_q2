@@ -1,4 +1,4 @@
-Sigma = a b 
+Sigma = a b
 Q = q0 q1 q2 q3 q4 q5 q6
 start = q0
 F = q3 q6
